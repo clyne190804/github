@@ -12,8 +12,14 @@ public class Hello {
 
         Person person2 = new Person("OH");
         Person person3 = new Person("KO");
+
+
         Person person4 = new Person("AB");
+
+
         Person person5 = new Person("AC");
+
+
         Person person6 = new Person("BC");
 
 
